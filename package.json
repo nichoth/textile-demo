@@ -1,0 +1,9 @@
+{
+
+  "dependencies": {
+    "@textile/hub": "^6.1.2"
+  },
+  "devDependencies": {
+    "budo": "^11.6.4"
+  }
+}
